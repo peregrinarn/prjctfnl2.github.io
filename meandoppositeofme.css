@@ -1,0 +1,112 @@
+#html{
+	background-color: black;
+#header{
+	background-color: black;
+}
+#header{
+	position: sticky;
+	position-fixed: top;
+	top: 0px;
+}
+#titulotexto{
+	position: sticky;
+}
+#t1{
+	text-align: center;
+	background-color: black;
+	color: white;
+	letter-spacing: 4px;
+	world-spacing: 12px;
+	position: sticky;
+}
+#pie{
+	background-color: black;
+	height: 120px;
+	color: white;
+	letter-spacing: 3px;
+	world-spacing: 11px;
+}
+#pie2{
+	padding: 25px;
+	text-align: center;
+}
+#pie3{
+	padding: 10px;
+	text-align: left;
+	background-color: black;
+}
+#menu{
+	display: block;
+	justify-content: center;
+	text-align: center;
+	position: relative;
+	top: -270px;
+
+}
+#m1{
+	display: inline;
+	justify-content: center;
+	margin: 20px;
+}
+#m2{
+	display: inline;
+	justify-content: center;
+	margin: 20px;
+}
+#m3{
+	display: inline;
+	justify-content: center;
+	margin: 20px;
+}
+#m4{
+	display: inline;
+	justify-content: center;
+	margin: 20px;
+}
+#cars{
+	text-align: center;
+}
+#present{
+	display: inline;
+	font-weight: 500;
+	width="600"
+	background-color: white;
+	justify-content: center;
+	position: relative;
+	left: 60px;
+	top: -150px;
+}
+#present2{
+	display: inline-block;
+	background-color: white;
+	font-weight: 500;
+	width="300";
+	justify-content: center;
+
+}
+#f1{
+	display: inline-block;
+	justify-content: center;
+	align-items: center;
+	width="300";
+	height: 800;
+}
+#id{
+	justify-content: center;
+	text-align: center;
+}
+#fotos{
+	text-align: center;
+	margin: 50px;
+}
+#txt{
+	width: 1000px;
+	text-align: justify;
+}
+#info{
+
+	padding-left: 60px;
+	padding-right: 60px;
+	padding-buttom: 40px;
+}
+}

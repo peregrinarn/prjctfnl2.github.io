@@ -1,0 +1,92 @@
+#html{
+	background-color: black;
+#header{
+	background-color: black;
+}
+#t1{
+	text-align: center;
+	background-color: black;
+	color: white;
+	position: sticky;
+	position-fixed: top;
+	top: 0px;
+	letter-spacing: 4px;
+	world-spacing: 12px;
+}
+#header{
+	position: sticky;
+	position-fixed: top;
+	top: 0px;
+}
+#b1{
+	color: white;
+	background-color: black;
+	border-radius: 100px;
+	width: 200px;
+	text-align: center;
+	display: inline-block;
+	float: right;
+	word-spacing: 5px;
+}
+#p1{
+	display: inline-block;
+}
+#flechita{
+	display: inline-block;
+}
+#t2{
+	text-align: center;
+}
+#f1{
+	padding-top: 50px;
+	padding-right: 50px;
+	padding-left: 60px;
+	padding-bottom: 50px;
+	display: inline-block;
+}
+#fotos{
+	text-align: center;
+}
+#pie{
+	background-color: black;
+	height: 120px;
+	color: white;
+	letter-spacing: 3px;
+	world-spacing: 11px;
+}
+#pie2{
+	padding: 25px;
+	text-align: center;
+}
+#pie3{
+	padding: 10px;
+	text-align: left;
+	background-color: black;
+	padding-bottom: 15px;
+	padding-left: 20px;
+}
+#text1{
+	display: inline-block;
+	float: right;
+}
+#present{
+	display: inline-block;
+	font-weight: 500;
+	width="600"
+}
+#present2{
+	display: inline-block;
+
+	font-weight: 500;
+	width="600";
+}
+#txt{
+	font-weight: 100;
+}
+#no{
+	color: white;
+}
+#body{
+	background-color: white;
+}
+}
